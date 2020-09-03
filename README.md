@@ -1,4 +1,4 @@
-# PCAPS for Packet Analysis Using Wireshark O'Reilly Live Training
+# PCAPS for Packet Analysis Using Wireshark
 
 ## Download All The Files in This Repository
 
